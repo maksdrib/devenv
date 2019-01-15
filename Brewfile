@@ -4,7 +4,6 @@ tap 'homebrew/cask-drivers'
 tap 'thoughtbot/formulae'
 
 cask '1password6'
-cask 'phpstorm'
 cask 'appcleaner'
 cask 'atom'
 cask 'authy'
